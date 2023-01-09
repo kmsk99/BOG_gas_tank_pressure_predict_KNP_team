@@ -1,0 +1,1 @@
+python start_train_model.py 0
